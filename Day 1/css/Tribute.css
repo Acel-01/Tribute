@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+#head{
+    text-align: center;
+}
+#title{
+    text-decoration: underline;
+    text-align: center;
+}
+.section{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: black;
+}
+.foot{
+    color: #fff;
+    text-align: center;
+}
+
+/*  nav bar */
+.topnav {
+    background-color: whitesmoke;
+    overflow: hidden;
+  }
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: ease-in-out 0.3s;
+  }
+  
+.topnav a:hover {
+    background-color: black;
+    color: #ddd;
+  }
+.cen{
+    text-align: center;
+}
